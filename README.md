@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Shashank Srivastava - a DevOps Architect with more than 11 years of experience in IT. I have good knowledge of Debian & RedHat based OS, MySQL & PostgreSQL databases, Cloud services (AWS) & Deployment/Release automation tools like XL Deploy/XL Release. I have also worked on a wide range of DevOps tools such as Jenkins, TravisCI, Nexus, Maven, SonarQube, Selenium, Ansible, Docker & Kubernetes.
+I am Shashank Srivastava - a DevOps Architect with more than 12 years of experience in IT. I have good knowledge of Debian & RedHat based OS, MySQL & PostgreSQL databases, Cloud services (AWS) & Deployment/Release automation tools like XL Deploy/XL Release (now known as Digital.ai Deploy/Release). I have also worked on a wide range of DevOps tools such as Jenkins, TravisCI, Nexus, Artifactory, Maven, SonarQube, Sysdig Secure, Checkmarx, Selenium, Ansible, Docker & Kubernetes.
 
-I love to write code in my free time & I try to automate as much as possible. I enjoy writing Bash shell scripts for fun & to automate a few boring tasks.
+I love to write code in my free time & I try to automate as many tasks as possible. I enjoy writing Bash shell scripts for fun & to automate a few boring tasks.
