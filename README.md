@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Shashank Srivastava — a DevSecOps/Kubernetes Architect & Engineering Lead with over 15 years of experience building, securing, and automating scalable infrastructure.
+I’m Shashank Srivastava — a DevSecOps/Kubernetes Architect & Engineering Lead with over 15 years of experience building, securing, and automating scalable infrastructure.
 🔧 I specialize in DevSecOps practices, cloud-native tooling, and CI/CD automation. My technical background spans across:
 	•	🚀 Operating Systems: Deep hands-on expertise with both Debian and Red Hat-based Linux distributions.
 	•	☁️ Cloud Platforms: Experience with AWS, Google Cloud Platform, and Microsoft Azure.
